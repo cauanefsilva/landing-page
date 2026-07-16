@@ -8,7 +8,7 @@ Seja muito bem-vindo(a) ao repositório da minha **Landing Page**! Este é um pr
 
 O objetivo deste projeto foi construir uma página de conversão (Landing Page) estática altamente adaptável. O grande destaque aqui é a **responsividade**: o layout se adapta de forma fluida e inteligente a qualquer tamanho de tela, garantindo uma navegação perfeita tanto em celulares quanto em tablets e computadores.
 
-👉 **[Clique aqui para visualizar o projeto online](https://cauanefsilva.github.io/landing-page/)**
+
 
 ---
 
