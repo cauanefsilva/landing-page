@@ -32,10 +32,6 @@ Durante o desenvolvimento desta landing page, os principais focos foram:
 
 ---
 
-## 📬 Vamos nos conectar?
-
-Se você gostou deste projeto ou quer trocar uma ideia sobre desenvolvimento Front-end, fique à vontade para me mandar uma mensagem!
-
 *   **LinkedIn:** [Cauane Francisco Silva](https://www.linkedin.com/in/cauane-francisco-silva-a823b4258/)
 *   **Instagram:** [@cacau.fs_](https://instagram.com/cacau.fs_)
 
