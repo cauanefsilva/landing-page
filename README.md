@@ -1,14 +1,14 @@
-# 🚀 Landing Page - Projeto Web
+# 🚀 Landing Page - Projeto Responsivo
 
-Seja muito bem-vindo(a) ao repositório da minha **Landing Page**! Este é um projeto desenvolvido para colocar em prática conceitos essenciais de desenvolvimento front-end, criando uma página moderna, rápida, responsiva e com foco total na experiência do usuário (UX/UI).
+Seja muito bem-vindo(a) ao repositório da minha **Landing Page**! Este é um projeto desenvolvido para colocar em prática conceitos essenciais de desenvolvimento front-end, criando uma página moderna, rápida e **100% responsiva**, com foco total na experiência do usuário (UX/UI).
 
 ---
 
 ## 📱 Sobre o Projeto
 
-O objetivo deste projeto foi construir uma página de conversão (Landing Page) estática, aplicando técnicas modernas de estilização e garantindo que o layout se adapte perfeitamente a qualquer tamanho de tela (computadores, tablets e celulares).
+O objetivo deste projeto foi construir uma página de conversão (Landing Page) estática altamente adaptável. O grande destaque aqui é a **responsividade**: o layout se adapta de forma fluida e inteligente a qualquer tamanho de tela, garantindo uma navegação perfeita tanto em celulares quanto em tablets e computadores.
 
-👉 **[Clique aqui para visualizar o projeto online](https://cauanefsilva.github.io/landing-page/)** *(Se o seu projeto estiver publicado no GitHub Pages)*
+👉 **[Clique aqui para visualizar o projeto online](https://cauanefsilva.github.io/landing-page/)**
 
 ---
 
@@ -16,19 +16,19 @@ O objetivo deste projeto foi construir uma página de conversão (Landing Page) 
 
 Este projeto foi construído utilizando as seguintes tecnologias fundamentais da web:
 
-*   **HTML5:** Estrutura semântica das seções (cabeçalho, conteúdo principal, formulários/benefícios e rodapé).
-*   **CSS3:** Estilização visual, tipografia, cores e efeitos visuais.
-*   **Flexbox / CSS Grid:** Posicionamento inteligente dos elementos para criar um layout fluido.
-*   **Responsividade (Media Queries):** Adaptação completa da interface para diferentes dispositivos móveis.
+*   **HTML5:** Estrutura semântica das seções.
+*   **CSS3:** Estilização visual, tipografia, cores e efeitos de transição.
+*   **Flexbox & CSS Grid:** Alinhamento dinâmico e posicionamento fluido dos elementos.
+*   **Responsividade (Mobile-First / Media Queries):** Adaptação completa da interface para diferentes resoluções e dispositivos.
 
 ---
 
 ## 💡 Aprendizados e Desafios
 
-Durante o desenvolvimento desta landing page, foquei em consolidar conceitos como:
-*   Estruturação semântica correta para melhor indexação de motores de busca (SEO).
-*   Organização do código CSS seguindo boas práticas de nomenclatura e legibilidade.
-*   Criação de botões de chamada para ação (CTA) atraentes e com efeitos de transição suaves ao passar o mouse.
+Durante o desenvolvimento desta landing page, os principais focos foram:
+*   Dominar o uso de **Media Queries** para criar layouts que se ajustam a telas pequenas, médias e grandes.
+*   Utilizar unidades de medida relativas (como `em`, `rem` e `%`) para que textos e espaçamentos acompanhem o tamanho do dispositivo.
+*   Garantir uma ótima usabilidade e legibilidade em dispositivos móveis (Mobile Friendly).
 
 ---
 
@@ -42,7 +42,7 @@ Se você gostou deste projeto ou quer trocar uma ideia sobre desenvolvimento Fro
 ---
 
 <div align="center">
-  <p>Desenvolvido com 💻 por Cauane Silva</p>
+  <p>Desenvolvido com 📱 e 💻 por Cauane Silva</p>
 </div>
 
  <div>
